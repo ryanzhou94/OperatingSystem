@@ -1,0 +1,689 @@
+PROCESS LIST:
+	Process Id = 0,  Initial Burst Time = 8, Remaining Burst Time = 8
+	Process Id = 1,  Initial Burst Time = 24, Remaining Burst Time = 24
+	Process Id = 2,  Initial Burst Time = 31, Remaining Burst Time = 31
+	Process Id = 3,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 4,  Initial Burst Time = 24, Remaining Burst Time = 24
+	Process Id = 5,  Initial Burst Time = 41, Remaining Burst Time = 41
+	Process Id = 6,  Initial Burst Time = 43, Remaining Burst Time = 43
+	Process Id = 7,  Initial Burst Time = 38, Remaining Burst Time = 38
+	Process Id = 8,  Initial Burst Time = 28, Remaining Burst Time = 28
+	Process Id = 9,  Initial Burst Time = 41, Remaining Burst Time = 41
+	Process Id = 10,  Initial Burst Time = 4, Remaining Burst Time = 4
+	Process Id = 11,  Initial Burst Time = 10, Remaining Burst Time = 10
+	Process Id = 12,  Initial Burst Time = 11, Remaining Burst Time = 11
+	Process Id = 13,  Initial Burst Time = 50, Remaining Burst Time = 50
+	Process Id = 14,  Initial Burst Time = 17, Remaining Burst Time = 17
+	Process Id = 15,  Initial Burst Time = 48, Remaining Burst Time = 48
+	Process Id = 16,  Initial Burst Time = 13, Remaining Burst Time = 13
+	Process Id = 17,  Initial Burst Time = 11, Remaining Burst Time = 11
+	Process Id = 18,  Initial Burst Time = 30, Remaining Burst Time = 30
+	Process Id = 19,  Initial Burst Time = 30, Remaining Burst Time = 30
+	Process Id = 20,  Initial Burst Time = 18, Remaining Burst Time = 18
+	Process Id = 21,  Initial Burst Time = 44, Remaining Burst Time = 44
+	Process Id = 22,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 23,  Initial Burst Time = 29, Remaining Burst Time = 29
+	Process Id = 24,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 25,  Initial Burst Time = 2, Remaining Burst Time = 2
+	Process Id = 26,  Initial Burst Time = 9, Remaining Burst Time = 9
+	Process Id = 27,  Initial Burst Time = 19, Remaining Burst Time = 19
+	Process Id = 28,  Initial Burst Time = 25, Remaining Burst Time = 25
+	Process Id = 29,  Initial Burst Time = 31, Remaining Burst Time = 31
+	Process Id = 30,  Initial Burst Time = 23, Remaining Burst Time = 23
+	Process Id = 31,  Initial Burst Time = 50, Remaining Burst Time = 50
+	Process Id = 32,  Initial Burst Time = 2, Remaining Burst Time = 2
+	Process Id = 33,  Initial Burst Time = 28, Remaining Burst Time = 28
+	Process Id = 34,  Initial Burst Time = 29, Remaining Burst Time = 29
+	Process Id = 35,  Initial Burst Time = 49, Remaining Burst Time = 49
+	Process Id = 36,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 37,  Initial Burst Time = 16, Remaining Burst Time = 16
+	Process Id = 38,  Initial Burst Time = 14, Remaining Burst Time = 14
+	Process Id = 39,  Initial Burst Time = 26, Remaining Burst Time = 26
+	Process Id = 40,  Initial Burst Time = 16, Remaining Burst Time = 16
+	Process Id = 41,  Initial Burst Time = 30, Remaining Burst Time = 30
+	Process Id = 42,  Initial Burst Time = 18, Remaining Burst Time = 18
+	Process Id = 43,  Initial Burst Time = 6, Remaining Burst Time = 6
+	Process Id = 44,  Initial Burst Time = 2, Remaining Burst Time = 2
+	Process Id = 45,  Initial Burst Time = 39, Remaining Burst Time = 39
+	Process Id = 46,  Initial Burst Time = 6, Remaining Burst Time = 6
+	Process Id = 47,  Initial Burst Time = 3, Remaining Burst Time = 3
+	Process Id = 48,  Initial Burst Time = 17, Remaining Burst Time = 17
+	Process Id = 49,  Initial Burst Time = 39, Remaining Burst Time = 39
+	Process Id = 50,  Initial Burst Time = 2, Remaining Burst Time = 2
+	Process Id = 51,  Initial Burst Time = 22, Remaining Burst Time = 22
+	Process Id = 52,  Initial Burst Time = 38, Remaining Burst Time = 38
+	Process Id = 53,  Initial Burst Time = 28, Remaining Burst Time = 28
+	Process Id = 54,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 55,  Initial Burst Time = 10, Remaining Burst Time = 10
+	Process Id = 56,  Initial Burst Time = 46, Remaining Burst Time = 46
+	Process Id = 57,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 58,  Initial Burst Time = 43, Remaining Burst Time = 43
+	Process Id = 59,  Initial Burst Time = 19, Remaining Burst Time = 19
+	Process Id = 60,  Initial Burst Time = 11, Remaining Burst Time = 11
+	Process Id = 61,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 62,  Initial Burst Time = 46, Remaining Burst Time = 46
+	Process Id = 63,  Initial Burst Time = 14, Remaining Burst Time = 14
+	Process Id = 64,  Initial Burst Time = 7, Remaining Burst Time = 7
+	Process Id = 65,  Initial Burst Time = 43, Remaining Burst Time = 43
+	Process Id = 66,  Initial Burst Time = 33, Remaining Burst Time = 33
+	Process Id = 67,  Initial Burst Time = 18, Remaining Burst Time = 18
+	Process Id = 68,  Initial Burst Time = 46, Remaining Burst Time = 46
+	Process Id = 69,  Initial Burst Time = 22, Remaining Burst Time = 22
+	Process Id = 70,  Initial Burst Time = 41, Remaining Burst Time = 41
+	Process Id = 71,  Initial Burst Time = 39, Remaining Burst Time = 39
+	Process Id = 72,  Initial Burst Time = 17, Remaining Burst Time = 17
+	Process Id = 73,  Initial Burst Time = 41, Remaining Burst Time = 41
+	Process Id = 74,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 75,  Initial Burst Time = 23, Remaining Burst Time = 23
+	Process Id = 76,  Initial Burst Time = 46, Remaining Burst Time = 46
+	Process Id = 77,  Initial Burst Time = 5, Remaining Burst Time = 5
+	Process Id = 78,  Initial Burst Time = 40, Remaining Burst Time = 40
+	Process Id = 79,  Initial Burst Time = 6, Remaining Burst Time = 6
+	Process Id = 80,  Initial Burst Time = 24, Remaining Burst Time = 24
+	Process Id = 81,  Initial Burst Time = 14, Remaining Burst Time = 14
+	Process Id = 82,  Initial Burst Time = 39, Remaining Burst Time = 39
+	Process Id = 83,  Initial Burst Time = 21, Remaining Burst Time = 21
+	Process Id = 84,  Initial Burst Time = 17, Remaining Burst Time = 17
+	Process Id = 85,  Initial Burst Time = 27, Remaining Burst Time = 27
+	Process Id = 86,  Initial Burst Time = 14, Remaining Burst Time = 14
+	Process Id = 87,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 88,  Initial Burst Time = 1, Remaining Burst Time = 1
+	Process Id = 89,  Initial Burst Time = 24, Remaining Burst Time = 24
+	Process Id = 90,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 91,  Initial Burst Time = 23, Remaining Burst Time = 23
+	Process Id = 92,  Initial Burst Time = 48, Remaining Burst Time = 48
+	Process Id = 93,  Initial Burst Time = 47, Remaining Burst Time = 47
+	Process Id = 94,  Initial Burst Time = 24, Remaining Burst Time = 24
+	Process Id = 95,  Initial Burst Time = 45, Remaining Burst Time = 45
+	Process Id = 96,  Initial Burst Time = 36, Remaining Burst Time = 36
+	Process Id = 97,  Initial Burst Time = 26, Remaining Burst Time = 26
+	Process Id = 98,  Initial Burst Time = 43, Remaining Burst Time = 43
+	Process Id = 99,  Initial Burst Time = 30, Remaining Burst Time = 30
+END
+
+Process Id = 0, Previous Burst Time = 8, Remaining Burst Time = 3, Response Time = 0
+Process Id = 1, Previous Burst Time = 24, Remaining Burst Time = 19, Response Time = 5
+Process Id = 2, Previous Burst Time = 31, Remaining Burst Time = 26, Response Time = 10
+Process Id = 3, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 15
+Process Id = 4, Previous Burst Time = 24, Remaining Burst Time = 19, Response Time = 20
+Process Id = 5, Previous Burst Time = 41, Remaining Burst Time = 36, Response Time = 25
+Process Id = 6, Previous Burst Time = 43, Remaining Burst Time = 38, Response Time = 30
+Process Id = 7, Previous Burst Time = 38, Remaining Burst Time = 33, Response Time = 35
+Process Id = 8, Previous Burst Time = 28, Remaining Burst Time = 23, Response Time = 40
+Process Id = 9, Previous Burst Time = 41, Remaining Burst Time = 36, Response Time = 45
+Process Id = 10, Previous Burst Time = 4, Remaining Burst Time = 0, Response Time = 50, Turnaround Time = 54
+Process Id = 11, Previous Burst Time = 10, Remaining Burst Time = 5, Response Time = 54
+Process Id = 12, Previous Burst Time = 11, Remaining Burst Time = 6, Response Time = 59
+Process Id = 13, Previous Burst Time = 50, Remaining Burst Time = 45, Response Time = 64
+Process Id = 14, Previous Burst Time = 17, Remaining Burst Time = 12, Response Time = 69
+Process Id = 15, Previous Burst Time = 48, Remaining Burst Time = 43, Response Time = 74
+Process Id = 16, Previous Burst Time = 13, Remaining Burst Time = 8, Response Time = 79
+Process Id = 17, Previous Burst Time = 11, Remaining Burst Time = 6, Response Time = 84
+Process Id = 18, Previous Burst Time = 30, Remaining Burst Time = 25, Response Time = 89
+Process Id = 19, Previous Burst Time = 30, Remaining Burst Time = 25, Response Time = 94
+Process Id = 20, Previous Burst Time = 18, Remaining Burst Time = 13, Response Time = 99
+Process Id = 21, Previous Burst Time = 44, Remaining Burst Time = 39, Response Time = 104
+Process Id = 22, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 109
+Process Id = 23, Previous Burst Time = 29, Remaining Burst Time = 24, Response Time = 114
+Process Id = 24, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 119
+Process Id = 25, Previous Burst Time = 2, Remaining Burst Time = 0, Response Time = 124, Turnaround Time = 126
+Process Id = 26, Previous Burst Time = 9, Remaining Burst Time = 4, Response Time = 126
+Process Id = 27, Previous Burst Time = 19, Remaining Burst Time = 14, Response Time = 131
+Process Id = 28, Previous Burst Time = 25, Remaining Burst Time = 20, Response Time = 136
+Process Id = 29, Previous Burst Time = 31, Remaining Burst Time = 26, Response Time = 141
+Process Id = 30, Previous Burst Time = 23, Remaining Burst Time = 18, Response Time = 146
+Process Id = 31, Previous Burst Time = 50, Remaining Burst Time = 45, Response Time = 151
+Process Id = 32, Previous Burst Time = 2, Remaining Burst Time = 0, Response Time = 156, Turnaround Time = 158
+Process Id = 33, Previous Burst Time = 28, Remaining Burst Time = 23, Response Time = 158
+Process Id = 34, Previous Burst Time = 29, Remaining Burst Time = 24, Response Time = 163
+Process Id = 35, Previous Burst Time = 49, Remaining Burst Time = 44, Response Time = 168
+Process Id = 36, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 173
+Process Id = 37, Previous Burst Time = 16, Remaining Burst Time = 11, Response Time = 178
+Process Id = 38, Previous Burst Time = 14, Remaining Burst Time = 9, Response Time = 183
+Process Id = 39, Previous Burst Time = 26, Remaining Burst Time = 21, Response Time = 188
+Process Id = 40, Previous Burst Time = 16, Remaining Burst Time = 11, Response Time = 193
+Process Id = 41, Previous Burst Time = 30, Remaining Burst Time = 25, Response Time = 198
+Process Id = 42, Previous Burst Time = 18, Remaining Burst Time = 13, Response Time = 203
+Process Id = 43, Previous Burst Time = 6, Remaining Burst Time = 1, Response Time = 208
+Process Id = 44, Previous Burst Time = 2, Remaining Burst Time = 0, Response Time = 213, Turnaround Time = 215
+Process Id = 45, Previous Burst Time = 39, Remaining Burst Time = 34, Response Time = 215
+Process Id = 46, Previous Burst Time = 6, Remaining Burst Time = 1, Response Time = 220
+Process Id = 47, Previous Burst Time = 3, Remaining Burst Time = 0, Response Time = 225, Turnaround Time = 228
+Process Id = 48, Previous Burst Time = 17, Remaining Burst Time = 12, Response Time = 228
+Process Id = 49, Previous Burst Time = 39, Remaining Burst Time = 34, Response Time = 233
+Process Id = 50, Previous Burst Time = 2, Remaining Burst Time = 0, Response Time = 238, Turnaround Time = 240
+Process Id = 51, Previous Burst Time = 22, Remaining Burst Time = 17, Response Time = 240
+Process Id = 52, Previous Burst Time = 38, Remaining Burst Time = 33, Response Time = 245
+Process Id = 53, Previous Burst Time = 28, Remaining Burst Time = 23, Response Time = 250
+Process Id = 54, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 255
+Process Id = 55, Previous Burst Time = 10, Remaining Burst Time = 5, Response Time = 260
+Process Id = 56, Previous Burst Time = 46, Remaining Burst Time = 41, Response Time = 265
+Process Id = 57, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 270
+Process Id = 58, Previous Burst Time = 43, Remaining Burst Time = 38, Response Time = 275
+Process Id = 59, Previous Burst Time = 19, Remaining Burst Time = 14, Response Time = 280
+Process Id = 60, Previous Burst Time = 11, Remaining Burst Time = 6, Response Time = 285
+Process Id = 61, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 290
+Process Id = 62, Previous Burst Time = 46, Remaining Burst Time = 41, Response Time = 295
+Process Id = 63, Previous Burst Time = 14, Remaining Burst Time = 9, Response Time = 300
+Process Id = 64, Previous Burst Time = 7, Remaining Burst Time = 2, Response Time = 305
+Process Id = 65, Previous Burst Time = 43, Remaining Burst Time = 38, Response Time = 310
+Process Id = 66, Previous Burst Time = 33, Remaining Burst Time = 28, Response Time = 315
+Process Id = 67, Previous Burst Time = 18, Remaining Burst Time = 13, Response Time = 320
+Process Id = 68, Previous Burst Time = 46, Remaining Burst Time = 41, Response Time = 325
+Process Id = 69, Previous Burst Time = 22, Remaining Burst Time = 17, Response Time = 330
+Process Id = 70, Previous Burst Time = 41, Remaining Burst Time = 36, Response Time = 335
+Process Id = 71, Previous Burst Time = 39, Remaining Burst Time = 34, Response Time = 340
+Process Id = 72, Previous Burst Time = 17, Remaining Burst Time = 12, Response Time = 345
+Process Id = 73, Previous Burst Time = 41, Remaining Burst Time = 36, Response Time = 350
+Process Id = 74, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 355
+Process Id = 75, Previous Burst Time = 23, Remaining Burst Time = 18, Response Time = 360
+Process Id = 76, Previous Burst Time = 46, Remaining Burst Time = 41, Response Time = 365
+Process Id = 77, Previous Burst Time = 5, Remaining Burst Time = 0, Response Time = 370, Turnaround Time = 375
+Process Id = 78, Previous Burst Time = 40, Remaining Burst Time = 35, Response Time = 375
+Process Id = 79, Previous Burst Time = 6, Remaining Burst Time = 1, Response Time = 380
+Process Id = 80, Previous Burst Time = 24, Remaining Burst Time = 19, Response Time = 385
+Process Id = 81, Previous Burst Time = 14, Remaining Burst Time = 9, Response Time = 390
+Process Id = 82, Previous Burst Time = 39, Remaining Burst Time = 34, Response Time = 395
+Process Id = 83, Previous Burst Time = 21, Remaining Burst Time = 16, Response Time = 400
+Process Id = 84, Previous Burst Time = 17, Remaining Burst Time = 12, Response Time = 405
+Process Id = 85, Previous Burst Time = 27, Remaining Burst Time = 22, Response Time = 410
+Process Id = 86, Previous Burst Time = 14, Remaining Burst Time = 9, Response Time = 415
+Process Id = 87, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 420
+Process Id = 88, Previous Burst Time = 1, Remaining Burst Time = 0, Response Time = 425, Turnaround Time = 426
+Process Id = 89, Previous Burst Time = 24, Remaining Burst Time = 19, Response Time = 426
+Process Id = 90, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 431
+Process Id = 91, Previous Burst Time = 23, Remaining Burst Time = 18, Response Time = 436
+Process Id = 92, Previous Burst Time = 48, Remaining Burst Time = 43, Response Time = 441
+Process Id = 93, Previous Burst Time = 47, Remaining Burst Time = 42, Response Time = 446
+Process Id = 94, Previous Burst Time = 24, Remaining Burst Time = 19, Response Time = 451
+Process Id = 95, Previous Burst Time = 45, Remaining Burst Time = 40, Response Time = 456
+Process Id = 96, Previous Burst Time = 36, Remaining Burst Time = 31, Response Time = 461
+Process Id = 97, Previous Burst Time = 26, Remaining Burst Time = 21, Response Time = 466
+Process Id = 98, Previous Burst Time = 43, Remaining Burst Time = 38, Response Time = 471
+Process Id = 99, Previous Burst Time = 30, Remaining Burst Time = 25, Response Time = 476
+Process Id = 0, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 484
+Process Id = 1, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 2, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 3, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 4, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 5, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 6, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 7, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 8, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 9, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 11, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 534
+Process Id = 12, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 13, Previous Burst Time = 45, Remaining Burst Time = 40
+Process Id = 14, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 15, Previous Burst Time = 43, Remaining Burst Time = 38
+Process Id = 16, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 17, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 18, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 19, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 20, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 21, Previous Burst Time = 39, Remaining Burst Time = 34
+Process Id = 22, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 23, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 24, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 26, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 603
+Process Id = 27, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 28, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 29, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 30, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 31, Previous Burst Time = 45, Remaining Burst Time = 40
+Process Id = 33, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 34, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 35, Previous Burst Time = 44, Remaining Burst Time = 39
+Process Id = 36, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 37, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 38, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 39, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 40, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 41, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 42, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 43, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 679
+Process Id = 45, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 46, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 685
+Process Id = 48, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 49, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 51, Previous Burst Time = 17, Remaining Burst Time = 12
+Process Id = 52, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 53, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 54, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 55, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 720
+Process Id = 56, Previous Burst Time = 41, Remaining Burst Time = 36
+Process Id = 57, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 58, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 59, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 60, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 61, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 62, Previous Burst Time = 41, Remaining Burst Time = 36
+Process Id = 63, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 64, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 762
+Process Id = 65, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 66, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 67, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 68, Previous Burst Time = 41, Remaining Burst Time = 36
+Process Id = 69, Previous Burst Time = 17, Remaining Burst Time = 12
+Process Id = 70, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 71, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 72, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 73, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 74, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 75, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 76, Previous Burst Time = 41, Remaining Burst Time = 36
+Process Id = 78, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 79, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 828
+Process Id = 80, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 81, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 82, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 83, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 84, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 85, Previous Burst Time = 22, Remaining Burst Time = 17
+Process Id = 86, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 87, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 89, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 90, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 91, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 92, Previous Burst Time = 43, Remaining Burst Time = 38
+Process Id = 93, Previous Burst Time = 42, Remaining Burst Time = 37
+Process Id = 94, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 95, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 96, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 97, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 98, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 99, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 1, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 2, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 3, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 4, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 5, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 6, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 7, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 8, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 9, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 12, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 969
+Process Id = 13, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 14, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 15, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 16, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 987
+Process Id = 17, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 988
+Process Id = 18, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 19, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 20, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 21, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 22, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 23, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 24, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 27, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 28, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 29, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 30, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 31, Previous Burst Time = 40, Remaining Burst Time = 35
+Process Id = 33, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 34, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 35, Previous Burst Time = 39, Remaining Burst Time = 34
+Process Id = 36, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 37, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 38, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1078
+Process Id = 39, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 40, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 41, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 42, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 45, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 48, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 49, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 51, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 52, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 53, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 54, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 56, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 57, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 58, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 59, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 60, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 1154
+Process Id = 61, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 62, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 63, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1168
+Process Id = 65, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 66, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 67, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 68, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 69, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 70, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 71, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 72, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 73, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 74, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 75, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 76, Previous Burst Time = 36, Remaining Burst Time = 31
+Process Id = 78, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 80, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 81, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1242
+Process Id = 82, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 83, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 84, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 85, Previous Burst Time = 17, Remaining Burst Time = 12
+Process Id = 86, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1266
+Process Id = 87, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 89, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 90, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 91, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 92, Previous Burst Time = 38, Remaining Burst Time = 33
+Process Id = 93, Previous Burst Time = 37, Remaining Burst Time = 32
+Process Id = 94, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 95, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 96, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 97, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 98, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 99, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 1, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 2, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 3, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 4, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 5, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 6, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 7, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 8, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 9, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 13, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 14, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1378
+Process Id = 15, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 18, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 19, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 20, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1396
+Process Id = 21, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 22, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 23, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 24, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 27, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1420
+Process Id = 28, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 29, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 30, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 31, Previous Burst Time = 35, Remaining Burst Time = 30
+Process Id = 33, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 34, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 35, Previous Burst Time = 34, Remaining Burst Time = 29
+Process Id = 36, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 37, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 1461
+Process Id = 39, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 40, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 1467
+Process Id = 41, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 42, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1475
+Process Id = 45, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 48, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1482
+Process Id = 49, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 51, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 52, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 53, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 54, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 56, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 57, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 58, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 59, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1526
+Process Id = 61, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 62, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 65, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 66, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 67, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1549
+Process Id = 68, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 69, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 70, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 71, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 72, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1571
+Process Id = 73, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 74, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 75, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 76, Previous Burst Time = 31, Remaining Burst Time = 26
+Process Id = 78, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 80, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 82, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 83, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 84, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1613
+Process Id = 85, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 87, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 89, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 90, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 91, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 92, Previous Burst Time = 33, Remaining Burst Time = 28
+Process Id = 93, Previous Burst Time = 32, Remaining Burst Time = 27
+Process Id = 94, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 95, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 96, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 97, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 98, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 99, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 1, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1682
+Process Id = 2, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 3, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 4, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1696
+Process Id = 5, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 6, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 7, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 8, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 9, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 13, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 15, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 18, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 19, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 21, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 22, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 23, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 24, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 28, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 1766
+Process Id = 29, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 30, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1774
+Process Id = 31, Previous Burst Time = 30, Remaining Burst Time = 25
+Process Id = 33, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 34, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 35, Previous Burst Time = 29, Remaining Burst Time = 24
+Process Id = 36, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 39, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 41, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 45, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 49, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 51, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1821
+Process Id = 52, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 53, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 54, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 56, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 57, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 58, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 61, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 62, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 65, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 66, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 68, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 69, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 1878
+Process Id = 70, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 71, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 73, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 74, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 75, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1901
+Process Id = 76, Previous Burst Time = 26, Remaining Burst Time = 21
+Process Id = 78, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 80, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1915
+Process Id = 82, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 83, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 1921
+Process Id = 85, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 87, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 89, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1935
+Process Id = 90, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 91, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 1943
+Process Id = 92, Previous Burst Time = 28, Remaining Burst Time = 23
+Process Id = 93, Previous Burst Time = 27, Remaining Burst Time = 22
+Process Id = 94, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 1957
+Process Id = 95, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 96, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 97, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 98, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 99, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 2, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 3, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 5, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 6, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 7, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 8, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2010
+Process Id = 9, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 13, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 15, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 18, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2031
+Process Id = 19, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2036
+Process Id = 21, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 22, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 23, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2050
+Process Id = 24, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 29, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 31, Previous Burst Time = 25, Remaining Burst Time = 20
+Process Id = 33, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2068
+Process Id = 34, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2072
+Process Id = 35, Previous Burst Time = 24, Remaining Burst Time = 19
+Process Id = 36, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 39, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2083
+Process Id = 41, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2088
+Process Id = 45, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 49, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 52, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 53, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2106
+Process Id = 54, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 56, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 57, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 58, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 61, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 62, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 65, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 66, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 68, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 70, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 71, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 73, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 74, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 76, Previous Burst Time = 21, Remaining Burst Time = 16
+Process Id = 78, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 82, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 85, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 2188
+Process Id = 87, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 90, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 92, Previous Burst Time = 23, Remaining Burst Time = 18
+Process Id = 93, Previous Burst Time = 22, Remaining Burst Time = 17
+Process Id = 95, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 96, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 97, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2219
+Process Id = 98, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 99, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2229
+Process Id = 2, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2230
+Process Id = 3, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 5, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 6, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 7, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 9, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 13, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 15, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 21, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 22, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 24, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 29, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2281
+Process Id = 31, Previous Burst Time = 20, Remaining Burst Time = 15
+Process Id = 35, Previous Burst Time = 19, Remaining Burst Time = 14
+Process Id = 36, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 45, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 49, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 52, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 54, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 56, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 57, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 58, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 61, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 62, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 65, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 66, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2349
+Process Id = 68, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 70, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 71, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 73, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 74, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 76, Previous Burst Time = 16, Remaining Burst Time = 11
+Process Id = 78, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 82, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 87, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 90, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 92, Previous Burst Time = 18, Remaining Burst Time = 13
+Process Id = 93, Previous Burst Time = 17, Remaining Burst Time = 12
+Process Id = 95, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 96, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 98, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 3, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 5, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 6, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 7, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2442
+Process Id = 9, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 13, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 15, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 21, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 22, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2463
+Process Id = 24, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 31, Previous Burst Time = 15, Remaining Burst Time = 10
+Process Id = 35, Previous Burst Time = 14, Remaining Burst Time = 9
+Process Id = 36, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2479
+Process Id = 45, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2483
+Process Id = 49, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2487
+Process Id = 52, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2490
+Process Id = 54, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 56, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 57, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2501
+Process Id = 58, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 61, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 62, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 65, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 68, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 70, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 71, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2535
+Process Id = 73, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 74, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2541
+Process Id = 76, Previous Burst Time = 11, Remaining Burst Time = 6
+Process Id = 78, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2551
+Process Id = 82, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2555
+Process Id = 87, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 90, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2561
+Process Id = 92, Previous Burst Time = 13, Remaining Burst Time = 8
+Process Id = 93, Previous Burst Time = 12, Remaining Burst Time = 7
+Process Id = 95, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 96, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2577
+Process Id = 98, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 3, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2587
+Process Id = 5, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2588
+Process Id = 6, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2591
+Process Id = 9, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2592
+Process Id = 13, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 15, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 21, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2606
+Process Id = 24, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2611
+Process Id = 31, Previous Burst Time = 10, Remaining Burst Time = 5
+Process Id = 35, Previous Burst Time = 9, Remaining Burst Time = 4
+Process Id = 54, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2626
+Process Id = 56, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 58, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2634
+Process Id = 61, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2639
+Process Id = 62, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 65, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2647
+Process Id = 68, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 70, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2653
+Process Id = 73, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2654
+Process Id = 76, Previous Burst Time = 6, Remaining Burst Time = 1
+Process Id = 87, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2664
+Process Id = 92, Previous Burst Time = 8, Remaining Burst Time = 3
+Process Id = 93, Previous Burst Time = 7, Remaining Burst Time = 2
+Process Id = 95, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2679
+Process Id = 98, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2682
+Process Id = 13, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2687
+Process Id = 15, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2690
+Process Id = 31, Previous Burst Time = 5, Remaining Burst Time = 0, Turnaround Time = 2695
+Process Id = 35, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 2699
+Process Id = 56, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2700
+Process Id = 62, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2701
+Process Id = 68, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2702
+Process Id = 76, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 2703
+Process Id = 92, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 2706
+Process Id = 93, Previous Burst Time = 2, Remaining Burst Time = 0, Turnaround Time = 2708
+Average response time = 237.780000
+Average turn around time = 1856.450000

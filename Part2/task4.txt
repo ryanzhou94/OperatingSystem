@@ -1,0 +1,47 @@
+Producer 0, Process Id = 0 (FCFS), Priority = 6, Initial Burst Time 34
+Producer 0, Process Id = 1 (RR), Priority = 19, Initial Burst Time 28
+Producer 0, Process Id = 2 (RR), Priority = 31, Initial Burst Time 44
+Producer 0, Process Id = 3 (FCFS), Priority = 12, Initial Burst Time 37
+Producer 0, Process Id = 4 (FCFS), Priority = 13, Initial Burst Time 50
+Producer 0, Process Id = 5 (FCFS), Priority = 11, Initial Burst Time 13
+Producer 0, Process Id = 6 (RR), Priority = 27, Initial Burst Time 41
+Producer 0, Process Id = 7 (FCFS), Priority = 6, Initial Burst Time 14
+Producer 0, Process Id = 8 (FCFS), Priority = 2, Initial Burst Time 41
+Producer 0, Process Id = 9 (RR), Priority = 24, Initial Burst Time 23
+Consumer 0, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 28, Remaining Burst Time = 23, Response Time = 0
+Consumer 0, Process Id = 7 (FCFS), Priority = 6, Previous Burst Time = 14, Remaining Burst Time = 0, Response Time = 5, Turnaround Time = 19
+Consumer 0, Process Id = 5 (FCFS), Priority = 11, Previous Burst Time = 13, Remaining Burst Time = 0, Response Time = 19, Turnaround Time = 32
+Consumer 1, Process Id = 0 (FCFS), Priority = 6, Previous Burst Time = 34, Remaining Burst Time = 0, Response Time = 0, Turnaround Time = 34
+Consumer 2, Process Id = 8 (FCFS), Priority = 2, Previous Burst Time = 41, Remaining Burst Time = 0, Response Time = 0, Turnaround Time = 41
+Consumer 2, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 23, Remaining Burst Time = 18
+Consumer 2, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 18, Remaining Burst Time = 13
+Consumer 2, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 13, Remaining Burst Time = 8
+Consumer 2, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 8, Remaining Burst Time = 3
+Consumer 2, Process Id = 1 (RR), Priority = 19, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 64
+Consumer 0, Process Id = 3 (FCFS), Priority = 12, Previous Burst Time = 37, Remaining Burst Time = 0, Response Time = 32, Turnaround Time = 69
+Consumer 2, Process Id = 9 (RR), Priority = 24, Previous Burst Time = 23, Remaining Burst Time = 18, Response Time = 64
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 41, Remaining Burst Time = 36, Response Time = 69
+Consumer 2, Process Id = 9 (RR), Priority = 24, Previous Burst Time = 18, Remaining Burst Time = 13
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 36, Remaining Burst Time = 31
+Consumer 2, Process Id = 9 (RR), Priority = 24, Previous Burst Time = 13, Remaining Burst Time = 8
+Consumer 1, Process Id = 4 (FCFS), Priority = 13, Previous Burst Time = 50, Remaining Burst Time = 0, Response Time = 33, Turnaround Time = 83
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 31, Remaining Burst Time = 26
+Consumer 2, Process Id = 9 (RR), Priority = 24, Previous Burst Time = 8, Remaining Burst Time = 3
+Consumer 2, Process Id = 9 (RR), Priority = 24, Previous Burst Time = 3, Remaining Burst Time = 0, Turnaround Time = 87
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 44, Remaining Burst Time = 39, Response Time = 84
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 26, Remaining Burst Time = 21
+Consumer 1, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 21, Remaining Burst Time = 16
+Consumer 0, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 39, Remaining Burst Time = 34
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 16, Remaining Burst Time = 11
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 34, Remaining Burst Time = 29
+Consumer 1, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 11, Remaining Burst Time = 6
+Consumer 0, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 29, Remaining Burst Time = 24
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 6, Remaining Burst Time = 1
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 24, Remaining Burst Time = 19
+Consumer 0, Process Id = 6 (RR), Priority = 27, Previous Burst Time = 1, Remaining Burst Time = 0, Turnaround Time = 110
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 19, Remaining Burst Time = 14
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 14, Remaining Burst Time = 9
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 9, Remaining Burst Time = 4
+Consumer 1, Process Id = 2 (RR), Priority = 31, Previous Burst Time = 4, Remaining Burst Time = 0, Turnaround Time = 128
+Average Response Time = 30.600000
+Average Turn Around Time = 66.700000
